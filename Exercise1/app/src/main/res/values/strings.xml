@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exercise1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Something cool</string>
+    <string name="previous">Back to first world</string>
+
+    <string name="hello_first_fragment">Hello World!</string>
+    <string name="hello_second_fragment">Hello World 2!!</string>
+</resources>
