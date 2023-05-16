@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Go to sleep</string>
+    <string name="previous">Wake up</string>
+
+    <string name="hello_first_fragment">It\'s time to go to sleep, good night!</string>
+    <string name="hello_second_fragment">It\'s morning! Here are all the reasons to wake up!</string>
+    <string name="sleep_hint">Change the good night message</string>
+    <string name="reason1">Don\'t have to rush to work</string>
+    <string name="reason2">More time to have a nice breakfast</string>
+    <string name="reason3">More time to take care of yourself</string>
+    <string name="reason4">Better sleep habits</string>
+    <string name="reason5">Can\'t think of more</string>
+    <string name="reason6">Just writing stuff to test the list</string>
+    <string name="reason7">There are more trust me</string>
+    <string name="reason8">Just go to sleep early and wake up on time</string>
+    <string name="reason9">You\'ll thank me that you did</string>
+    <string name="reason10">Don\'t be a fool</string>
+
+</resources>
